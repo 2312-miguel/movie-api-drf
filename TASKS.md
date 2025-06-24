@@ -9,11 +9,11 @@
 - [x] Create migrations
 - [x] Define models: Movie and Category
 - [x] Create and register serializers
+- [x] Implement viewsets and routers
+- [x] Add filters with django-filter
+- [x] Create CRUD endpoints for movies and categories
+- [x] Basic API tests
+- [x] Document main endpoints
 
 ## Pending Tasks
-- [ ] Implement viewsets and routers
-- [ ] Add filters with django-filter
-- [ ] Create CRUD endpoints for movies and categories
-- [ ] Basic API tests
-- [ ] Document main endpoints
 - [ ] Configure authentication and permissions (optional) 
