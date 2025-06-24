@@ -6,10 +6,11 @@
 - [x] Create Django project (`config`)
 - [x] Configure PostgreSQL database in settings.py
 - [x] Create main app for movies and categories
+- [x] Create migrations
+- [x] Define models: Movie and Category
+- [x] Create and register serializers
 
 ## Pending Tasks
-- [ ] Define models: Movie and Category
-- [ ] Create and register serializers
 - [ ] Implement viewsets and routers
 - [ ] Add filters with django-filter
 - [ ] Create CRUD endpoints for movies and categories
